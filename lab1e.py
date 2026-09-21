@@ -5,7 +5,7 @@
 # Author: Rey Abbas
 # Date: 2026/09/21
 # Purpose: Use string methods and f-string formating.
-# Usage: ./lab1c.py
+# Usage: ./lab1e.py
 
 #TO-DO 1:
 # Create a variable called "quantity".

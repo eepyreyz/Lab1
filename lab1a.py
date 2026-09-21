@@ -32,7 +32,7 @@ print(type(x))
 
 # What did you observe?
 '''
-I observed that Python allows you to change the type of the vararible by reassigning it due to its dynemic typing.
+I observed that Python allows you to change the type of the variable by reassigning it to anything due to its dynemic typing.
 It also assigns the varable type automatically without having to declare its type.
 
 '''
