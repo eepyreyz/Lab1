@@ -2,7 +2,7 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
+# Author: rey Abbas
 # Date:
 # Purpose: Use string methods and f-string formating.
 # Usage: ./lab1c.py
